@@ -1,4 +1,4 @@
-# Employee Salary Prediction Using Linear Regression
+# Salary Prediction Using Linear Regression
 
 ## Overview
 
