@@ -33,4 +33,4 @@ The model successfully predicts employee salaries based on years of experience w
 ## Author
 
 **Shweta Dumbare**
-Syntecxhub Internship Project
+
